@@ -23,7 +23,7 @@ namespace TestCorola
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrapsuperhero.css",
                       "~/Content/site.css"));
         }
     }
