@@ -862,3 +862,6 @@ C:\Users\Giorgos\Source\Repos\ANetCoreApp\ANetCoreApp\obj\Debug\net5.0\ANetCoreA
 C:\Users\Giorgos\Source\Repos\ANetCoreApp\ANetCoreApp\obj\Debug\net5.0\ref\ANetCoreApp.dll
 C:\Users\Giorgos\Source\Repos\ANetCoreApp\ANetCoreApp\obj\Debug\net5.0\ANetCoreApp.pdb
 C:\Users\Giorgos\Source\Repos\ANetCoreApp\ANetCoreApp\obj\Debug\net5.0\ANetCoreApp.genruntimeconfig.cache
+C:\Users\Giorgos\Source\Repos\ANetCoreApp\ANetCoreApp\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Giorgos\Source\Repos\ANetCoreApp\ANetCoreApp\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Giorgos\Source\Repos\ANetCoreApp\ANetCoreApp\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
