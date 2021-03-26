@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "83bcbTYM2IWuFsCj89vSbNNknSFNgjFp4L/PszesM++o6O1eLiQH7/wb8i9XExrzpsgLJ5gLzD5Njr200qHTWw==",
+  "dgSpecHash": "iURuRtxkbc4t/HCwWGNLuif/WoR8SdtZFMB80vwvoZKIhouVea3O+mP5Zgn77quo47FuTJiBhXNxJlON008+ig==",
   "success": true,
   "projectFilePath": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
     "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.4\\microsoft.entityframeworkcore.analyzers.5.0.4.nupkg.sha512",
     "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.4\\microsoft.entityframeworkcore.design.5.0.4.nupkg.sha512",
+    "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.4\\microsoft.entityframeworkcore.inmemory.5.0.4.nupkg.sha512",
     "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.4\\microsoft.entityframeworkcore.relational.5.0.4.nupkg.sha512",
     "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.4\\microsoft.entityframeworkcore.sqlserver.5.0.4.nupkg.sha512",
     "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.4\\microsoft.entityframeworkcore.tools.5.0.4.nupkg.sha512",
