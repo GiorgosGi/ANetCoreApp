@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iURuRtxkbc4t/HCwWGNLuif/WoR8SdtZFMB80vwvoZKIhouVea3O+mP5Zgn77quo47FuTJiBhXNxJlON008+ig==",
+  "dgSpecHash": "4b/ZMWluFV05yDhU8jyVBNSBlxOHOvpDlQNILdLs08CxV9GDjkmL5mUBHI3pViuB+w4s+/3Pf9krFJXjLLLRGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj",
+  "projectFilePath": "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giorgos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Giorgos\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

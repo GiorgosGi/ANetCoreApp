@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Giorgos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giorgos\\AppData\\Roaming\\NuGet\\NuGet.Config",

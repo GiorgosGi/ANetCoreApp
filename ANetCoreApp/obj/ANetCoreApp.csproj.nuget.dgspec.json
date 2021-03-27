@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj": {}
+    "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj": {
+    "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj",
         "projectName": "ANetCoreApp",
-        "projectPath": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj",
+        "projectPath": "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\ANetCoreApp\\ANetCoreApp.csproj",
         "packagesPath": "C:\\Users\\Giorgos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giorgos\\Source\\Repos\\ANetCoreApp\\ANetCoreApp\\obj\\",
+        "outputPath": "C:\\Users\\Giorgos\\source\\repos\\ANetCoreApp\\ANetCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giorgos\\AppData\\Roaming\\NuGet\\NuGet.Config",
