@@ -104,9 +104,6 @@ namespace ANetCoreApp.Controllers
             _db.Category.Remove(obj);
             _db.SaveChanges();
             return RedirectToAction("Index");
-
-
         }
-
     }
 }
